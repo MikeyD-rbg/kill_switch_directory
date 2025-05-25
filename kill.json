@@ -1,5 +1,5 @@
 {
-  "remote_kill_url": "http://209.35.66.106/killcheck",
+  "remote_kill_url": "https://ig2bot.loca.lt/killcheck",
   "fallback_urls": [
     "http://209.35.66.106/killcheck",
     "https://ig2bot.loca.lt/killcheck"
