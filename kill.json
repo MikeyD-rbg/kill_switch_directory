@@ -1,5 +1,5 @@
 {
-  "remote_kill_url": "https://0f12-2a01-4b00-b605-6000-7dfd-d313-7c99-96eb.ngrok-free.app/killcheck",
+  "remote_kill_url": "https://lucky-zebra-88.loca.lt/killcheck",
   "fallback_urls": [
     "http://209.35.66.106/killcheck",
     "https://ig2bot.loca.lt/killcheck",
