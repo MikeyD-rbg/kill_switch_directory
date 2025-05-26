@@ -1,8 +1,8 @@
 {
-  "remote_kill_url": "https://ig2bot.loca.lt/killcheck",
+  "remote_kill_url": "http://209.35.66.106/killcheck",
   "fallback_urls": [
     "http://209.35.66.106/killcheck",
     "https://ig2bot.loca.lt/killcheck",
-    "https://7fb3-2a01-4b00-b605-6000-12c8-ba9a-ac5f-6292.ngrok-free.app/killcheck"
+    "https://fallback.ngrok.io/killcheck"
   ]
 }
