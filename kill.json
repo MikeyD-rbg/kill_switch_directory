@@ -1,8 +1,8 @@
 {
   "Enabled": true,
   "Kill": {
-    "TheCheechWizard": true,
+    "TheCheechWizard": false,
     "Manifest": true,
-    "Modie": true
+    "Modie": false
   }
 }
