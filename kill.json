@@ -2,7 +2,7 @@
   "Enabled": true,
   "Kill": {
     "TheCheechWizard": false,
-    "Manifest": true,
+    "Manifest": false,
     "Modie": false
   }
 }
