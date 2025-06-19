@@ -2,7 +2,7 @@
   "Enabled": true,
   "Kill": {
     "TheCheechWizard": false,
-    "Manifest": false,
+    "Manifest": true,
     "modie": false,
     "SassyTheSasquatch": true,
     "Weekend": false,
