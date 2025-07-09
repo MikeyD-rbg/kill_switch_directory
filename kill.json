@@ -1,17 +1,10 @@
 {
   "Enabled": true,
   "Kill": {
-    "TheBrownWizard": false,
-    "Manifest": true,
     "sonnet": false,
-    "SassyTheSasquatch": true,
-    "Weekend": false,
-    "ZeinIsABumBandit": false,
     "Ka5h": false,
     "FreeTheMandem": false,
     "OSRS": false,
-    "Passive": false,
-    "SuckMyD": false,
     "MagnusCarlsen": false
   }
 }
