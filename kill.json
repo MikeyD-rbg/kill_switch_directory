@@ -2,7 +2,7 @@
   "Enabled": true,
   "Kill": {
     "sonnet": false,
-    "Ka5h": false,
+    "Ka5h": true,
     "OSRS": false,
     "bhuna": false,
     "Tortoise": false
