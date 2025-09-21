@@ -1,7 +1,7 @@
 {
   "Enabled": true,
   "Kill": {
-    "poznan": false,
+    "poznan": true,
     "Ka5h": true,
     "OSRS": false,
     "SuckYaDad": false,
