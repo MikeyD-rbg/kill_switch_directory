@@ -1,10 +1,6 @@
 {
   "Enabled": true,
   "Kill": {
-    "poznan": false,
-    "Ka5h": true,
-    "OSRS": false,
-    "ScubaStew": false,
-    "Tortoise": false
+    "Clyde": false
   }
 }
