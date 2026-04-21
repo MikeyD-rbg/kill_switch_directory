@@ -1,6 +1,6 @@
 {
   "Enabled": true,
   "Kill": {
-    "Moss": false
+    "Moss": true
   }
 }
