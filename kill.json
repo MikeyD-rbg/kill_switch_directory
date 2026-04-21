@@ -2,6 +2,7 @@
   "Enabled": true,
   "Kill": {
     "Moss": false,
-    "Highlights": true 
+    "Highlights": true,
+    "Blinded": false
   }
 }
