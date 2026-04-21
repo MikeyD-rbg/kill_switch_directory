@@ -1,10 +1,6 @@
 {
   "Enabled": true,
   "Kill": {
-    "Rizky": false,
-    "Halo": false,
-    "Bish": false,
-    "Cunt": false,
-    "Torment": false
+    "Moss": false
   }
 }
