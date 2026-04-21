@@ -3,6 +3,6 @@
   "Kill": {
     "Moss": false,
     "Highlights": true,
-    "Blinded": true
+    "Blinded": false
   }
 }
