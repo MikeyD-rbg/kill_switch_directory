@@ -1,7 +1,7 @@
 {
   "Enabled": true,
   "Kill": {
-    "": false,
+    "": true,
     "Highlights": false,
     "Schizophrenia": false,
     "Dark": false,
