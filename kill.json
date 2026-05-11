@@ -2,11 +2,11 @@
   "Enabled": true,
   "Kill": {
     "Moss": false,
-    "enzo": false,
+    "Enzo": false,
     "Schizophrenia": false,
     "Dark": false,
     "Ruin": false,
     "Cunt": false,
-    "ninja": false
+    "Ninja": false
   }
 }
