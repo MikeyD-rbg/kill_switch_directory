@@ -1,6 +1,7 @@
 {
   "Enabled": true,
   "Kill": {
+    "Piece": false,
     "Chaos": false,
     "Fuck": false,
     "Cr7": false,
